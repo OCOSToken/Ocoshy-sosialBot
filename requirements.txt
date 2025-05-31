@@ -1,0 +1,55 @@
+# Core dependencies for Ocoshy Bot automation project
+
+# OpenAI API integration for AI-generated content
+openai==1.33.0
+
+# Sending HTTP requests and API interactions
+requests==2.32.3
+
+# Managing environment variables securely
+python-dotenv==1.0.1
+
+# Data analysis and structured data manipulation
+pandas==2.2.2
+
+# Asynchronous HTTP client/server library for efficient API calls
+aiohttp==3.9.5
+
+# Twitter API integration for automated tweeting
+tweepy==4.14.0
+
+# Instagram account automation and management
+instabot==0.117.0
+
+# Telegram Bot API for automated messaging and management
+pyTelegramBotAPI==4.18.1
+
+# TikTok API interaction for video uploading and account management
+TikTokApi==5.2.2
+
+# Scheduling tasks and time management automation
+schedule==1.2.1
+
+# Web scraping utilities for retrieving social media content
+beautifulsoup4==4.12.3
+
+# Automated web browsing and social media page handling
+selenium==4.21.0
+
+# Simplified file handling and path management
+pathlib==1.0.1
+
+# JSON handling and efficient API data serialization
+ujson==5.9.0
+
+# Logging and structured tracking of bot activities
+loguru==0.7.2
+
+# Media file processing and image handling
+Pillow==10.3.0
+
+# Asynchronous function management and event loop handling
+asyncio==3.4.3
+
+# Error monitoring and debugging with enhanced reporting
+sentry-sdk==1.45.0
