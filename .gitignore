@@ -1,0 +1,35 @@
+# Python cache və bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual mühit qovluqları
+venv/
+env/
+.venv/
+ENV/
+
+# Gizli API açarları və konfiqurasiya faylları
+.env
+.env.local
+config.json
+secrets.json
+
+# IDE faylları
+.vscode/
+.idea/
+
+# Log faylları
+*.log
+
+# Media faylları (bot tərəfindən yaradılan müvəqqəti fayllar)
+media/
+downloads/
+
+# MacOS spesifik faylları
+.DS_Store
+
+# Windows spesifik faylları
+Thumbs.db
+ehthumbs
